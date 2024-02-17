@@ -6,10 +6,10 @@ Nesta aula estamos aprendendo comando úteis
 **Verifica o status dos arquivos e pastas do nosso repositorio**
 
 ### git add .
-**adciona todos os arquivos para a esteira do commit**
+**adiciona todos os arquivos para a esteira do commit**
  
 ### git add [caminho do arquivo]
-**adciona um arquivo em especifico**
+**adiciona um arquivo em especifico**
 
 
 ### git commit
